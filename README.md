@@ -1,7 +1,6 @@
 <div align="center">
   
   # Choi Jeongeun🐘
-  🔗[Portfolio](https://interesting-aquarius-d12.notion.site/29a5243e69d94c789003c0c9b4c16168?pvs=4)
   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=cju4103)](https://solved.ac/cju4103)
   
